@@ -1,6 +1,6 @@
 # Calculator-with-asm
 
-Objective = Become familiar with Interrupts and Emulation Kit.
+Objective = Become familiar with Interrupts and Emulation Kit. \
 Work = Write an assembly program that is able to add, subtract, multiply or divide two 8-bit numbers which are given by the user via emulator screen. 
 1. Get the first operand from user. Read the characters (only between ‘0’ and ‘9’) until “enter” key is pressed. There is no need to check if
 the given number exceeds the 8-bit (above 255).
